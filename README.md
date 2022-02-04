@@ -5,3 +5,5 @@ Sebelum kita dapat membuat aplikasi VueJS kita, langkah awal yang harus kita lak
 #
 Untuk tips kali ini, cara yang akan kita gunakan yaitu menggunakan code editor online untuk memudahkan teman-teman membuat aplikasi. Code Editor yang akan kita gunakan yaitu CodeSandbox.
 ![image](https://user-images.githubusercontent.com/92959023/152517673-fc25e124-f3f7-459b-a751-130b85ccde3a.png)
+# Memasang Framework VueJS
+Untuk dapat memasang framework VueJS di CodeSandbox, kalian dapat membuat Sandbox dengan menekan tombol *Create Sandbox* yang terletak di pojok kanan atas.
