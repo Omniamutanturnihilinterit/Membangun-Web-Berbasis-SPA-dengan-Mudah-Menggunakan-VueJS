@@ -19,3 +19,6 @@ Struktur folder ini merupakan pondasi dasar dari aplikasi kalian, dan dapat diku
 
 
 Komponen utama dari sebuah aplikasi VueJS adalah file *main.js* yang berisi inisialisasi aplikasi. Secara default, aplikasi VueJS berada di file *App.vue*
+![image](https://user-images.githubusercontent.com/92959023/152531791-d9a9d0d2-66af-42da-a930-43017f59ab0a.png)
+#
+Pada file *App.vue,* terdapat kode aplikasi kita yang dapat kita gunakan dalam membuat aplikasi. Setiap file Vue akan memiliki 3 struktur utama, yaitu *template, script,* dan *style.*
