@@ -38,3 +38,7 @@ Pertama-tama, kalian dapat membuat components baru dengan membuat file baru pada
 
 Lalu, pada file *App.vue,* ubah kode *HelloWorld* dan ganti menjadi *Calculator,* karena kita tidak membutuhkan component *HelloWorld.* Sebagai contoh lengkapnya, kalian dapat mereferensikan foto dibawah ini.
 ![image](https://user-images.githubusercontent.com/92959023/152544700-36a3ef73-a3eb-4b74-b0c8-5ebd62965e76.png)
+
+Pada component *Calculator,* ketikkan kode dibawah ini. Kita akan bahas satu persatu setelah ini.
+
+![image](https://user-images.githubusercontent.com/92959023/152545518-70c690d4-5b11-4a7b-bd96-8d393274df07.png)
