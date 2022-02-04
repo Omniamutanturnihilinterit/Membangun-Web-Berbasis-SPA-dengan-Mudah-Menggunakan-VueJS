@@ -26,3 +26,9 @@ Pada file *App.vue,* terdapat kode aplikasi kita yang dapat kita gunakan dalam m
 Aplikasi yang kita buat pun dapat kita bagi lagi ke file yang berbeda dengan menggunakan *components.* Hal ini akan sangat membantu kalian terlebih jika kalian membuat aplikasi kompleks yang membutuhkan kode yang banyak, tentunya components ini akan membantu kalian.
 
 Contoh component yang dapat kamu gunakan pada project ini yaitu component *HelloWorld*
+![image](https://user-images.githubusercontent.com/92959023/152542988-efc7fff7-cb80-4088-81e4-beb81774e323.png)
+# Membuat Kalkulator Sederhana
+Tentunya teman-teman ingin tahu bagaimana cara membuat aplikasi pada VueJS. Pada kali ini kita akan mencoba membuat kalkulator sederhana, yang akan menghitung angka dari variable yang sudah kita tentukan sebelumnya.
+
+Berikut dibawah ini merupakan aplikasi yang akan kita buat.
+![image](https://user-images.githubusercontent.com/92959023/152543168-8ce19ffa-9e5b-4065-80ac-ddc6a9307392.png)
