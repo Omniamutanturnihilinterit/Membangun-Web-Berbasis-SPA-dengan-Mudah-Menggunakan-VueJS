@@ -23,3 +23,6 @@ Komponen utama dari sebuah aplikasi VueJS adalah file *main.js* yang berisi inis
 #
 Pada file *App.vue,* terdapat kode aplikasi kita yang dapat kita gunakan dalam membuat aplikasi. Setiap file Vue akan memiliki 3 struktur utama, yaitu *template, script,* dan *style.*
 ![image](https://user-images.githubusercontent.com/92959023/152542479-15c7fd35-6792-4d60-a38c-dd55b4700b6c.png)
+Aplikasi yang kita buat pun dapat kita bagi lagi ke file yang berbeda dengan menggunakan *components.* Hal ini akan sangat membantu kalian terlebih jika kalian membuat aplikasi kompleks yang membutuhkan kode yang banyak, tentunya components ini akan membantu kalian.
+
+Contoh component yang dapat kamu gunakan pada project ini yaitu component *HelloWorld*
