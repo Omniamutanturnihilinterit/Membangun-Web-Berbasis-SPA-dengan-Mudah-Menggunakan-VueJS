@@ -9,3 +9,6 @@ Untuk tips kali ini, cara yang akan kita gunakan yaitu menggunakan code editor o
 Untuk dapat memasang framework VueJS di CodeSandbox, kalian dapat membuat Sandbox dengan menekan tombol Create Sandbox yang terletak di pojok kanan atas.
 ![image](https://user-images.githubusercontent.com/92959023/152518321-6c6a3294-3bee-4c1e-b052-0c3663892719.png)
 Setelah itu, maka akan muncul halaman welcome. Kalian dapat klik tombol Create Sandbox untuk melanjutkan dan memilih framework Vue.
+![image](https://user-images.githubusercontent.com/92959023/152528540-9a2ca2da-259b-4a0e-995c-8b3b162f6cf4.png)
+Jika sudah, maka halaman Code Editor yang sudah terpasang VueJS dapat kamu gunakan. Yay!
+![image](https://user-images.githubusercontent.com/92959023/152528602-14d470bc-755f-4b4e-8b8d-36db9dce691f.png)
