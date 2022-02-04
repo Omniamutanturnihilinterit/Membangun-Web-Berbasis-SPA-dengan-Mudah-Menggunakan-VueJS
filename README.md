@@ -12,3 +12,10 @@ Setelah itu, maka akan muncul halaman welcome. Kalian dapat klik tombol Create S
 ![image](https://user-images.githubusercontent.com/92959023/152528540-9a2ca2da-259b-4a0e-995c-8b3b162f6cf4.png)
 Jika sudah, maka halaman Code Editor yang sudah terpasang VueJS dapat kamu gunakan. Yay!
 ![image](https://user-images.githubusercontent.com/92959023/152528602-14d470bc-755f-4b4e-8b8d-36db9dce691f.png)
+# Memahami Struktur Project
+Dalam aplikasi VueJS, ada beberapa aturan dasar yang perlu kamu pahami, salah satunya adalah struktur direktori dari project VueJS.
+
+Struktur folder ini merupakan pondasi dasar dari aplikasi kalian, dan dapat dikustomisasi tergantung dari kebutuhan kalian.
+
+
+Komponen utama dari sebuah aplikasi VueJS adalah file main.js yang berisi inisialisasi aplikasi. Secara default, aplikasi VueJS berada di file App.vue
