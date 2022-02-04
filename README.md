@@ -42,3 +42,26 @@ Lalu, pada file *App.vue,* ubah kode *HelloWorld* dan ganti menjadi *Calculator,
 Pada component *Calculator,* ketikkan kode dibawah ini. Kita akan bahas satu persatu setelah ini.
 
 ![image](https://user-images.githubusercontent.com/92959023/152545518-70c690d4-5b11-4a7b-bd96-8d393274df07.png)
+
+Pada bagian ini, kita menginisialisasi variable pada component Calculator pada VueJS, agar dapat digunakan oleh aplikasi. Pada kasus kali ini, kita membuat 3 variable, yaitu *a, b* dan *result.*
+
+![image](https://user-images.githubusercontent.com/92959023/152545760-f5626125-ae24-43d1-9d0e-254152ed1356.png)
+
+Pada bagian ini, kita membuat fungsi kalkulasi pada aplikasi kita, dengan nama fungsi *calculate().* Untuk dapat mengakses variable, kita perlu menambahkan *keyword this.*
+
+![image](https://user-images.githubusercontent.com/92959023/152545994-92c6f711-f891-47fe-9add-0be5de315633.png)
+
+Pada bagian ini, kita membuat tampilan interface untuk digunakan oleh pengguna. Kita dapat menggunakan tag layaknya di HTML, dengan beberapa tambahan fitur.
+
+Pada bagian input, kita tambahkan *v-model* agar data yang dimasukkan ke input secara otomatis akan masuk ke variable yang sudah kita tentukan. Kita tambahkan *.number* agar VueJS dapat membaca value tersebut sebagai number.
+
+Pada bagian tombol, kita tambahkan *@click* atau *v-on:click* untuk dapat memanggil fungsi *calculate()* yang sudah kita buat sebelumnya di bagian *script.*
+
+Pada bagian paragraph, kita akan memunculkan data *result* yang berisi hasil kalkulasi dari data a dan b dengan menggunakan *{{ }}*
+
+![image](https://user-images.githubusercontent.com/92959023/152546548-3e62ae16-e7d6-4c0c-b184-e79f146977ab.png)
+
+Viola! Maka aplikasi kalkulator sederhana kalian sudah selesai. Sangat mudah bukan?
+
+![image](https://user-images.githubusercontent.com/92959023/152546637-0520f7e7-4e77-44ea-bf7b-12a6ab2d85c8.png)
+
