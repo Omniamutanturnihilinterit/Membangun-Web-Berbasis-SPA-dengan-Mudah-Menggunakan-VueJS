@@ -33,6 +33,7 @@ Tentunya teman-teman ingin tahu bagaimana cara membuat aplikasi pada VueJS. Pada
 Berikut dibawah ini merupakan aplikasi yang akan kita buat.
 ![image](https://user-images.githubusercontent.com/92959023/152543168-8ce19ffa-9e5b-4065-80ac-ddc6a9307392.png)
 Pertama-tama, kalian dapat membuat components baru dengan membuat file baru pada folder *components,* lalu kalian beri nama *Calculator.vue*
+
 ![image](https://user-images.githubusercontent.com/92959023/152544452-c209abc5-68d8-4ab1-b88f-2bca222e305f.png)
 
 Lalu, pada file *App.vue,* ubah kode *HelloWorld* dan ganti menjadi *Calculator,* karena kita tidak membutuhkan component *HelloWorld.* Sebagai contoh lengkapnya, kalian dapat mereferensikan foto dibawah ini.
