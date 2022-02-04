@@ -18,4 +18,4 @@ Dalam aplikasi VueJS, ada beberapa aturan dasar yang perlu kamu pahami, salah sa
 Struktur folder ini merupakan pondasi dasar dari aplikasi kalian, dan dapat dikustomisasi tergantung dari kebutuhan kalian.
 
 
-Komponen utama dari sebuah aplikasi VueJS adalah file main.js yang berisi inisialisasi aplikasi. Secara default, aplikasi VueJS berada di file App.vue
+Komponen utama dari sebuah aplikasi VueJS adalah file *main.js* yang berisi inisialisasi aplikasi. Secara default, aplikasi VueJS berada di file *App.vue*
